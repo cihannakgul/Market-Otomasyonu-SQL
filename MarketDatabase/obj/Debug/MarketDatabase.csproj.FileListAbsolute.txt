@@ -1,0 +1,59 @@
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csprojAssemblyReference.cache
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.Properties.Resources.resources
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.UserStart.resources
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.GenerateResource.cache
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe.config
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.pdb
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.exe
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.pdb
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormBranch.resources
+C:\Users\ugurh\source\repos\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormProduct.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe.config
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.pdb
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csprojAssemblyReference.cache
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormBranch.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormProduct.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.Properties.Resources.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.UserStart.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.GenerateResource.cache
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.exe
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.pdb
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormWorkers.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormCustomer.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormStokAmountt.resources
+C:\Users\Fender calan gibson\Desktop\vbb\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.LoginScreen.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe.config
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.pdb
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormBranch.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormCustomer.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormProduct.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormStokAmountt.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormWorkers.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.LoginScreen.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.Properties.Resources.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.UserStart.resources
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.exe
+C:\Users\casper\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.pdb
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe.config
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.exe
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\bin\Debug\MarketDatabase.pdb
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csprojAssemblyReference.cache
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormBranch.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormCustomer.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormProduct.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormStokAmountt.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.FormWorkers.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.LoginScreen.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.Properties.Resources.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.UserStart.resources
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.GenerateResource.cache
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.exe
+C:\Users\zehra\Desktop\VeriTabanıMarket.sln\MarketDatabase\obj\Debug\MarketDatabase.pdb
